@@ -4,6 +4,7 @@ A set of tests demonstrating java 15 features
 
 ## Java 15 features
 * Text blocks
+* instantOf pattern matching
 
 
 ## Running the tests
