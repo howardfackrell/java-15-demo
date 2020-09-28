@@ -4,8 +4,9 @@ A set of tests demonstrating java 15 features
 
 ## Java 15 features
 * Text blocks
-* instantOf pattern matching
+* instanceof pattern matching
 * records
+* Sealed interfaces - todo: the fmt-maven-plugin:2.10 doesn't handle this yet
 
 
 ## Running the tests
